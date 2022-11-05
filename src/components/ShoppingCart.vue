@@ -197,7 +197,7 @@ const total = computed(() => {
   font-weight: bold;
 }
 
-@media (min-width: 500px) {
+@container (min-width: 500px) {
   .cart-item {
     padding: 20px 0;
   }

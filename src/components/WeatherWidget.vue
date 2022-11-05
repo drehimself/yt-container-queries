@@ -145,7 +145,7 @@
   margin: auto;
 }
 
-@media (min-width: 400px) {
+@container (min-width: 400px) {
   .current-weather-container {
     flex-direction: row;
     gap: 0;
